@@ -217,7 +217,7 @@
   ]
   pruneopts = "UT"
   revision = "342b2e1fbaa52c93f31447ad2c6abc048c63e475"
-  version = "v0.3.2"
+  version = "v0.3.8"
 
 [[projects]]
   branch = "master"
@@ -294,7 +294,7 @@
   ]
   pruneopts = "UT"
   revision = "1a3960e4bd028ac0cec0a2afd27d7d8e67c11514"
-  version = "v1.25.1"
+  version = "v1.56.3"
 
 [[projects]]
   digest = "1:b75b3deb2bce8bc079e16bb2aecfe01eb80098f5650f9e93e5643ca8b7b73737"
